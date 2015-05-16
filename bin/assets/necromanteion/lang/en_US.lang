@@ -1,0 +1,13 @@
+#Keys
+keys.necromanteion.category=Necromanteion
+keys.necromanteion.charge=Charge
+keys.necromanteion.release=Release
+
+#Item Localization 
+item.necromanteion:itemPhylactery.name=Phylactery
+
+#Block Localization
+tile.necromanteion:blockHolyWater.name=Holy Water
+
+#CreativeTabs
+itemGroup.necromanteion=Necromanteion 
